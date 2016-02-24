@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Just testing out the features of The Grid. It's actually pretty beautiful in here."
-datePublished: '2016-02-24T22:01:20.266Z'
-dateModified: '2016-02-24T22:01:15.819Z'
+datePublished: '2016-02-24T22:06:22.777Z'
+dateModified: '2016-02-24T22:03:37.574Z'
 title: 'Hola from HollywoodREBEL!'
 author: []
 sourcePath: _posts/2016-02-24-hola-from-hollywoodrebel.md

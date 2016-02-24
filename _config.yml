@@ -1,4 +1,4 @@
-name: HollywoodREBEL
+name: '#HollywoodREBEL'
 favicon: null
 layout_spectrum: 0.10048
 typography_spectrum: 0.14134
@@ -23,7 +23,7 @@ color:
     - '#5f5f5f'
     - '#007aff'
   brandStrength: 1
-  lightness: 0.325709733646363
-  saturation: 0.730729108909145
-  rhythmicContrast: 0.6862803241237998
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []

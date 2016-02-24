@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: ''
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Just testing out the features of The Grid. It's actually pretty beautiful in here."
-datePublished: '2016-02-24T21:47:43.238Z'
-dateModified: '2016-02-24T21:26:27.098Z'
+datePublished: '2016-02-24T21:49:56.446Z'
+dateModified: '2016-02-24T21:49:54.970Z'
 title: 'Hola from HollywoodREBEL!'
 author: []
 sourcePath: _posts/2016-02-24-hola-from-hollywoodrebel.md

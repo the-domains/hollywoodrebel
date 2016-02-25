@@ -14,15 +14,15 @@ description: "Colorverse is The Grid's revolutionary algorithm that extracts col
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5eKzhw-RVD8'
 title: 'The Grid | AI Websites | Color System Overview'
-datePublished: '2016-02-25T01:11:29.314Z'
-dateModified: '2016-02-25T01:11:09.092Z'
+datePublished: '2016-02-25T06:54:50.645Z'
+dateModified: '2016-02-25T06:54:46.859Z'
 sourcePath: _posts/2016-02-24-the-grid-or-ai-websites-or-color-system-overview.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'

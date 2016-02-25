@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
   domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 keywords: []
 description: "Colorverse is The Grid's revolutionary algorithm that extracts colors from a photo, image, or logo and creates thousands of possible color palette combinations. Instead of painstakingly choosing individual colors for your design palette, you can upload a photo that has the color characteristics that resonate with your brand, and The Grid automatically constructs a color palette that fits perfectly with your site content."
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5eKzhw-RVD8'
 title: 'The Grid | AI Websites | Color System Overview'
-datePublished: '2016-02-24T22:12:35.194Z'
-dateModified: '2016-02-24T22:10:02.739Z'
+datePublished: '2016-02-25T01:11:29.314Z'
+dateModified: '2016-02-25T01:11:09.092Z'
 sourcePath: _posts/2016-02-24-the-grid-or-ai-websites-or-color-system-overview.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 

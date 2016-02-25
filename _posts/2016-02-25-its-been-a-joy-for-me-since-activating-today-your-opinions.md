@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: "It's been a joy for me since activating today. Your opinions and suggestions are golden with this company. I can see where this is all headed and my money spent"
-datePublished: '2016-02-25T01:10:36.917Z'
-dateModified: '2016-02-25T01:09:34.052Z'
+datePublished: '2016-02-25T01:11:23.596Z'
+dateModified: '2016-02-25T01:11:21.424Z'
 author: []
 title: ''
+sourcePath: _posts/2016-02-25-its-been-a-joy-for-me-since-activating-today-your-opinions.md
+published: true
 authors: []
 publisher:
   name: youtube.com
   domain: www.youtube.com
   url: null
   favicon: null
-sourcePath: _posts/2016-02-25-its-been-a-joy-for-me-since-activating-today-your-opinions.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
 ---
-It's been a joy for me since activating today. Your opinions and suggestions are golden with this company. I can see where this is all headed and my money spent was worth it. The SEO options \[if you have mastered SEO skill sets, means 'in-front and behind the curtain' of your website\] are embraced perfectly by the grid. It's so easy to turn your site into a quality link generator and social media feed powerhouse. If you have the content to back the SEO skill set then you're lined up for a winning shot at building your own niche audience, so to speak. You get 7 websites, extra 6 months added to the service for the wait -and who knows what's coming down the road besides the key chain? Surprises abound, thank god. There were so many people out there making me a nervous wreck by flat out lying about it being vaporware or like a new geo cities. FALSE. Forget 50% of what you know with building websites. Watch ALL of the videos you have access to once you activate -and watch 'em all the way through. This is different. The wait will be over soon, remember I told you that. When this thing launches live, it'll be 10 x better than it is right now, but you'll be the reason for that as a beta tester and founding member. As it stands in BETA, the grid is really cool and creating a site like THEGRID.AI is so possible right now. Today. It's just nobody but the grid's done it so far. (That was another lie spreading around that I personally debunked for myself, btw.) And it just LOVES youtube/vimeo, etc. videos with a passion, so be careful with how you title and describe your own and it will look pro all the time. The app is fantastic and so are the options avail. in the chrome browser. Results and possibilities are going to surprise a lot of people.﻿ That's my day 1 brainstorm report.
+It's been a joy for me since activating today. Your opinions and suggestions are golden with this company. I can see where this is all headed and my money spent was worth it. The SEO options \[if you have mastered SEO skill sets, means 'in-front and behind the curtain' of your website\] are embraced perfectly by the grid. It's so easy to turn your site into a quality link generator and social media feed powerhouse. If you have the content to back the SEO skill set then you're lined up for a winning shot at building your own niche audience, so to speak. You get 7 websites, extra 6 months added to the service for the wait -and who knows what's coming down the road besides the key chain? Surprises abound, thank god. There were so many people out there making me a nervous wreck by flat out lying about it being vaporware or like a new geo cities. FALSE. Forget 50% of what you know with building websites. Watch ALL of the videos you have access to once you activate -and watch 'em all the way through. This is different. The wait will be over soon, remember I told you that. When this thing launches live, it'll be 10 x better than it is right now, but you'll be the reason for that as a beta tester and founding member. As it stands in BETA, the grid is really cool and creating a site like THEGRID.AI is so possible right now. Today. It's just nobody but the grid's done it so far. (That was another lie spreading around that I personally debunked for myself, btw.) And it just LOVES youtube/vimeo, etc. videos with a passion, so be careful with how you title and describe your own and it will look pro all the time. The app is fantastic and so are the options avail. in the chrome browser. Results and possibilities are going to surprise a lot of people as this A.I. child starts to grow up.﻿ That's my day 1 brainstorm report. Let's see how I'm feeling later on. So far so real good. The Grid does not suck.

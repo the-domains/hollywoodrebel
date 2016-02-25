@@ -1,29 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=5eKzhw-RVD8'
+inLanguage: null
+starred: true
+keywords: []
+description: "Colorverse is The Grid's revolutionary algorithm that extracts colors from a photo, image, or logo and creates thousands of possible color palette combinations. Instead of painstakingly choosing individual colors for your design palette, you can upload a photo that has the color characteristics that resonate with your brand, and The Grid automatically constructs a color palette that fits perfectly with your site content."
+datePublished: '2016-02-25T06:56:58.003Z'
+dateModified: '2016-02-25T06:56:56.889Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
     avatar: {}
 related: []
+app_links: []
+title: 'The Grid | AI Websites | Color System Overview'
+sourcePath: _posts/2016-02-24-the-grid-or-ai-websites-or-color-system-overview.md
+published: true
+authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-keywords: []
-description: "Colorverse is The Grid's revolutionary algorithm that extracts colors from a photo, image, or logo and creates thousands of possible color palette combinations. Instead of painstakingly choosing individual colors for your design palette, you can upload a photo that has the color characteristics that resonate with your brand, and The Grid automatically constructs a color palette that fits perfectly with your site content."
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=5eKzhw-RVD8'
-title: 'The Grid | AI Websites | Color System Overview'
-datePublished: '2016-02-25T06:54:50.645Z'
-dateModified: '2016-02-25T06:54:46.859Z'
-sourcePath: _posts/2016-02-24-the-grid-or-ai-websites-or-color-system-overview.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: false
-authors: []
 _type: VideoObject
 _context: 'http://schema.org'
 

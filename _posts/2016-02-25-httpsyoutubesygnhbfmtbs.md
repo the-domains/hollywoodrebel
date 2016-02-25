@@ -1,20 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=SYGnHbfMtbs&feature=youtu.be'
+inLanguage: null
+starred: false
+keywords: []
 description: 'https://youtu.be/SYGnHbfMtbs'
+datePublished: '2016-02-25T03:26:08.946Z'
+dateModified: '2016-02-25T03:25:41.701Z'
 author: []
-datePublished: '2016-02-25T01:13:45.121Z'
-publisher:
-  domain: www.youtube.com
-  name: youtube.com
-dateModified: '2016-02-25T01:13:11.612Z'
 title: ''
+authors: []
+publisher:
+  name: youtube.com
+  domain: www.youtube.com
+  url: null
+  favicon: null
 sourcePath: _posts/2016-02-25-httpsyoutubesygnhbfmtbs.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: httpsyoutubesygnhbfmtbs/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-https://youtu.be/SYGnHbfMtbs
+[https://youtu.be/SYGnHbfMtbs][0]
+
+[0]: null

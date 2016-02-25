@@ -4,8 +4,15 @@
         <description><![CDATA[#TheGrid testing.]]></description>
         <link>https://thegrid.ai/hollywoodrebel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 03:29:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 03:29:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hollywoodrebel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74519c98-4d74-43bf-bb87-711dbed9dd92.jpg">]]></description>
+            <link>https://thegrid.ai/hollywoodrebel/ce2dd910-2be1-450c-ae22-71b7192c69fc/index.html</link>
+            <guid isPermaLink="false">ce2dd910-2be1-450c-ae22-71b7192c69fc</guid>
+            <pubDate>Thu, 25 Feb 2016 03:29:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid | AI Websites | Color System Overview]]></title>
             <description><![CDATA[<article><h1>The Grid | AI Websites | Color System Overview</h1><p>Colorverse is The Grid's revolutionary algorithm that extracts colors from a photo, image, or logo and creates thousands of possible color palette combinations. Instead of painstakingly choosing individual colors for your design palette, you can upload a photo that has the color characteristics that resonate with your brand, and The Grid automatically constructs a color palette that fits perfectly with your site content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9efbc363556bb311a97c1d6bce8bf7dd74431f9.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://www.youtube.com/watch?v=5eKzhw-RVD8</link>
             <guid isPermaLink="false">d0f4abcb-ce54-4d62-aa50-f83dd967b2a4</guid>
             <pubDate>Thu, 25 Feb 2016 02:50:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74519c98-4d74-43bf-bb87-711dbed9dd92.jpg">]]></description>
-            <link>https://thegrid.ai/hollywoodrebel/ce2dd910-2be1-450c-ae22-71b7192c69fc/index.html</link>
-            <guid isPermaLink="false">ce2dd910-2be1-450c-ae22-71b7192c69fc</guid>
-            <pubDate>Thu, 25 Feb 2016 03:27:42 GMT</pubDate>
         </item>
     </channel>
 </rss>

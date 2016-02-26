@@ -4,8 +4,15 @@
         <description><![CDATA[#TheGrid testing.]]></description>
         <link>https://thegrid.ai/hollywoodrebel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 20:18:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Feb 2016 20:19:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hollywoodrebel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can I edit the title or RSS feed links?]]></title>
+            <description><![CDATA[<article><h1>Can I edit the title or RSS feed links?</h1><p>Yes and no... The RSS link can't be edited, but you can the title. All you'll need to do is choose the page you want to edit, then click on INFO. From there you can enter in a new...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40adb8b25fec7d28e8f662552cf572bd6e303e57.png"></article>]]></description>
+            <link>https://thegrid.zendesk.com/hc/en-us/articles/216116828-Can-I-edit-the-title-or-RSS-feed-links-</link>
+            <guid isPermaLink="false">eecbb61a-f3db-49bf-a24b-dd2f10d682ee</guid>
+            <pubDate>Thu, 25 Feb 2016 20:11:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Where is the Grid Token?]]></title>
             <description><![CDATA[<article><h1>Where is the Grid Token?</h1><p>The tokens are still in production and they haven't been sent out yet. We'll be reaching out to you soon to get your shipping details so that we can send them out to all the Founding Members.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40adb8b25fec7d28e8f662552cf572bd6e303e57.png"></article>]]></description>

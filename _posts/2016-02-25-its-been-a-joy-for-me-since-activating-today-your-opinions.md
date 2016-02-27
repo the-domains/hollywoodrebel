@@ -7,10 +7,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-27T08:29:27.564Z'
-dateModified: '2016-02-27T08:29:24.572Z'
+datePublished: '2016-02-27T08:29:58.549Z'
+dateModified: '2016-02-27T08:29:51.898Z'
 author: []
-title: My reaction on day of my grid.
+title: ''
 sourcePath: _posts/2016-02-25-its-been-a-joy-for-me-since-activating-today-your-opinions.md
 published: true
 authors: []

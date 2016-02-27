@@ -1,6 +1,6 @@
 name: '#HollywoodREBEL'
 favicon: null
-layout_spectrum: 0.1317
+layout_spectrum: 0
 typography_spectrum: 0.08307
 title: '#TheGrid testing.'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b4d6fc'
     - '#5c5a8c'
     - '#858f94'
-  brandStrength: 0.875
+  brandStrength: 1
   lightness: 0.8125
   saturation: 0.625
   rhythmicContrast: 1

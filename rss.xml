@@ -4,7 +4,7 @@
         <description><![CDATA[#TheGrid testing.]]></description>
         <link>https://thegrid.ai/hollywoodrebel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 08:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 08:28:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hollywoodrebel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -46,13 +46,6 @@
             <description><![CDATA[<article><h1>TheGridSupport</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f143f73367d0492d9cc3eb0a9c31d35e5f616061.jpg"></article>]]></description>
             <link>https://thegrid.ai/thegridsupport/</link>
             <guid isPermaLink="false">e9cc9740-0f01-4875-b6ff-485ef55c4638</guid>
-            <pubDate>Thu, 25 Feb 2016 20:11:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Share from Twitter]]></title>
-            <description><![CDATA[<article><h1>Share from Twitter</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9976d6e9b55d583078afd89d4d84da310d0f3258.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thegridsupport/share-from-twitter/</link>
-            <guid isPermaLink="false">b25d4baa-ac84-45ec-8d32-2463294901c7</guid>
             <pubDate>Thu, 25 Feb 2016 20:11:56 GMT</pubDate>
         </item>
     </channel>

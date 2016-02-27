@@ -6,11 +6,11 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=5eKzhw-RVD8'
 inLanguage: null
 starred: false
 keywords: []
-description: "It's been a joy for me since activating today. Your opinions and suggestions are golden with this company. I can see where this is all headed and my money spent"
-datePublished: '2016-02-27T08:27:25.332Z'
-dateModified: '2016-02-27T08:27:23.832Z'
+description: ''
+datePublished: '2016-02-27T08:29:27.564Z'
+dateModified: '2016-02-27T08:29:24.572Z'
 author: []
-title: ''
+title: My reaction on day of my grid.
 sourcePath: _posts/2016-02-25-its-been-a-joy-for-me-since-activating-today-your-opinions.md
 published: true
 authors: []

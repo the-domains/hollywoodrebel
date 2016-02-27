@@ -4,7 +4,7 @@
         <description><![CDATA[#TheGrid testing.]]></description>
         <link>https://thegrid.ai/hollywoodrebel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 07:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 08:24:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hollywoodrebel/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How to Delete a Site]]></title>
@@ -40,13 +40,6 @@
             <link>https://thegrid.zendesk.com/hc/en-us/articles/216116658-Will-you-have-gallery-support-</link>
             <guid isPermaLink="false">75faebd7-9ac8-47de-b76a-092fc290a857</guid>
             <pubDate>Thu, 25 Feb 2016 20:11:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Can I edit the title or RSS feed links?]]></title>
-            <description><![CDATA[<article><h1>Can I edit the title or RSS feed links?</h1><p>Yes and no... The RSS link can't be edited, but you can the title. All you'll need to do is choose the page you want to edit, then click on INFO. From there you can enter in a new...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/40adb8b25fec7d28e8f662552cf572bd6e303e57.png"></article>]]></description>
-            <link>https://thegrid.zendesk.com/hc/en-us/articles/216116828-Can-I-edit-the-title-or-RSS-feed-links-</link>
-            <guid isPermaLink="false">eecbb61a-f3db-49bf-a24b-dd2f10d682ee</guid>
-            <pubDate>Thu, 25 Feb 2016 20:11:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where is the Grid Token?]]></title>

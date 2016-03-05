@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=SYGnHbfMtbs'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Runtime Review: No questions. No suggestive text. Just the GB-REALM created by the founder of GHOSTHUNTERAPPS™/ http://ghosthunterapps.com/ (Anthony F. Sanchez) ..and you. What did you hear? Leave your thoughts in the comments section below and thanks for watching TEAM:SPIRIT. ( (SUBSCRIBE to support our research) )'
-datePublished: '2016-02-25T07:02:51.635Z'
-dateModified: '2016-02-25T07:02:49.264Z'
+datePublished: '2016-03-05T05:57:10.838Z'
+dateModified: '2016-03-05T05:56:58.992Z'
 author:
   - name: 'TEAM:SPIRIT'
     url: 'https://www.youtube.com/channel/UCy9dbnDA9xXL7-xr4pWGz2w'
@@ -24,6 +23,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+url: teamspirit-the-realm-ghost-boxtm-runtime-review/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

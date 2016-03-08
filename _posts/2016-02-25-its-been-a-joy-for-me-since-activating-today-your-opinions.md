@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: '#TheGrid: first thoughts..'
-datePublished: '2016-03-08T00:07:58.306Z'
-dateModified: '2016-03-08T00:07:54.362Z'
+datePublished: '2016-03-08T00:09:10.410Z'
+dateModified: '2016-03-08T00:08:54.556Z'
 author: []
-title: 'Surprises abound, thank god.'
+title: '"Surprises abound, thank god.."'
 sourcePath: _posts/2016-02-25-its-been-a-joy-for-me-since-activating-today-your-opinions.md
 published: true
 authors: []

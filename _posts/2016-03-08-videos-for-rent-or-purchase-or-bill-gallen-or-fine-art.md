@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://billgallen.com'
-  name: Billgallen
-  favicon: null
-  domain: billgallen.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://billgallen.com/video-tutorials/videos-for-rent-or-purchase/'
+inLanguage: en
+starred: false
 keywords:
   - adria
   - willenson
@@ -18,17 +17,20 @@ keywords:
   - paintings
   - art
 description: 'home | about | available paintings | workshops | contact Copyright © 2010 Bill Gallen | Fine Art. All Rights Reserved.'
-inLanguage: en
+datePublished: '2016-03-08T05:22:46.763Z'
+dateModified: '2016-03-08T05:22:34.761Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://billgallen.com/video-tutorials/videos-for-rent-or-purchase/'
 title: 'Videos For Rent Or Purchase | Bill Gallen | Fine Art'
-datePublished: '2016-03-08T05:22:33.146Z'
-dateModified: '2016-03-08T05:19:49.903Z'
 sourcePath: _posts/2016-03-08-videos-for-rent-or-purchase-or-bill-gallen-or-fine-art.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Billgallen
+  domain: billgallen.com
+  url: 'http://billgallen.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 

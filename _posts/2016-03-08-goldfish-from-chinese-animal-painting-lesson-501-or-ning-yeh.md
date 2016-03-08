@@ -1,23 +1,26 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://oaslife.pivotshare.com'
-  name: 'OASlife: A Network of Brush Painting Lessons'
-  favicon: 'https://d6vfwwsmhxo8w.cloudfront.net/favicons/default_favicon_32.png'
-  domain: oaslife.pivotshare.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
 keywords: []
 description: 'Ning Yeh starts is Animal Painting Series with Goldfish. In this video he starts with a full introduction to his animal series introducing every animal study and then begins with an introduction to Goldfish. In this 57 minute video, he step-by-step captures the spiritual essence of the multi-color fish goldfish.'
+datePublished: '2016-03-08T05:36:01.829Z'
+dateModified: '2016-03-08T05:35:59.645Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://oaslife.pivotshare.com/media/goldfish-from-chinese-animal-painting%3A-lesson-501/33280/preview'
 title: 'Goldfish from Chinese Animal Painting: Lesson 501 | Ning Yeh | Watch Online for Just $19.99 | OASlife: A Network of Brush Painting Lessons'
-datePublished: '2016-03-08T05:27:48.203Z'
-dateModified: '2016-03-08T05:27:17.035Z'
 sourcePath: _posts/2016-03-08-goldfish-from-chinese-animal-painting-lesson-501-or-ning-yeh.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: 'OASlife: A Network of Brush Painting Lessons'
+  domain: oaslife.pivotshare.com
+  url: 'https://oaslife.pivotshare.com'
+  favicon: 'https://d6vfwwsmhxo8w.cloudfront.net/favicons/default_favicon_32.png'
+url: goldfish-from-chinese-animal-painting-lesson-501-or-ning-yeh/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

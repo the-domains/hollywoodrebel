@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Colorverse is The Grid's revolutionary algorithm that extracts colors from a photo, image, or logo and creates thousands of possible color palette combinations. Instead of painstakingly choosing individual colors for your design palette, you can upload a photo that has the color characteristics that resonate with your brand, and The Grid automatically constructs a color palette that fits perfectly with your site content."
-datePublished: '2016-03-06T21:45:45.283Z'
-dateModified: '2016-03-06T21:45:41.237Z'
+datePublished: '2016-03-22T02:29:50.331Z'
+dateModified: '2016-03-22T02:29:28.299Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'

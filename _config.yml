@@ -2,7 +2,7 @@ name: '#HollywoodREBEL'
 favicon: null
 layout_spectrum: 0.34377
 typography_spectrum: 0.05968
-title: '#TheGrid testing.'
+title: '#HollywoodREBEL tests #TheGrid.'
 collections:
   - index:
       path: /

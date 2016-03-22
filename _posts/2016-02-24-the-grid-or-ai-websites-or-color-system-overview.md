@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=5eKzhw-RVD8'
 inLanguage: null
 starred: false
 keywords: []
 description: "Colorverse is The Grid's revolutionary algorithm that extracts colors from a photo, image, or logo and creates thousands of possible color palette combinations. Instead of painstakingly choosing individual colors for your design palette, you can upload a photo that has the color characteristics that resonate with your brand, and The Grid automatically constructs a color palette that fits perfectly with your site content."
-datePublished: '2016-03-22T03:02:32.594Z'
-dateModified: '2016-03-22T03:02:27.687Z'
+datePublished: '2016-03-22T06:04:51.086Z'
+dateModified: '2016-03-22T06:04:49.699Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
@@ -23,7 +24,6 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-url: the-grid-or-ai-websites-or-color-system-overview/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 

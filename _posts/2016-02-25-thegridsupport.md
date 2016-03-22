@@ -1,20 +1,21 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://thegrid.ai/thegridsupport/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T00:07:25.191Z'
-dateModified: '2016-03-08T00:03:59.502Z'
+datePublished: '2016-03-22T06:02:26.632Z'
+dateModified: '2016-03-22T06:01:14.023Z'
 author:
   - name: The Grid
     url: 'https://www.youtube.com/user/TheGridio'
     avatar: {}
 related: []
 app_links: []
-title: TheGridSupport
+title: ''
 sourcePath: _posts/2016-02-25-thegridsupport.md
 published: true
 authors: []
@@ -23,7 +24,6 @@ publisher:
   domain: thegrid.ai
   url: 'https://thegrid.ai'
   favicon: null
-url: thegridsupport/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

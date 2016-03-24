@@ -1,41 +1,41 @@
-name: '#HollywoodREBEL'
-favicon: null
-layout_spectrum: 0.34377
-typography_spectrum: 0.05607
 title: 'Hollywood REBEL tests #TheGrid'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-38685198-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.625
+  brandStrength: 0.375
+  rhythmicContrast: 1
   brandColors:
     - '#e1d3b9'
     - '#0b0d0c'
     - '#ab9a7d'
     - '#8a7b5f'
     - '#b96251'
-  brandStrength: 0.375
   lightness: 0.25
-  saturation: 0.625
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: UA-38685198-2
+  facebook: null
+name: '#HollywoodREBEL'
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.1090225
+layout_spectrum: 0.34377

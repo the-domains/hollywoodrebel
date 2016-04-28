@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is just a test.
-datePublished: '2016-04-28T23:03:56.345Z'
-dateModified: '2016-04-28T23:03:22.085Z'
+datePublished: '2016-04-28T23:05:16.000Z'
+dateModified: '2016-04-28T23:05:14.637Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-28-this-is-just-a-test.md
 published: true
 authors: []
@@ -22,6 +24,6 @@ url: this-is-just-a-test/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a884b5a6-08c5-4011-a682-2ecfbc0f1d18.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/00b4da80c941d20944a6d667638202638caddd1b.jpg)
 
 This is just a test.

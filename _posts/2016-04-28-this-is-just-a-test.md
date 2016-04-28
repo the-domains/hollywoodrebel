@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is just a test.
-datePublished: '2016-04-28T23:03:11.817Z'
-dateModified: '2016-04-28T23:02:30.032Z'
+datePublished: '2016-04-28T23:03:56.345Z'
+dateModified: '2016-04-28T23:03:22.085Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-28-this-is-just-a-test.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-28-this-is-just-a-test.md
-published: true
 url: this-is-just-a-test/index.html
 _type: Article
 

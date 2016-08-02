@@ -1,5 +1,30 @@
-title: 'Hollywood REBEL tests #TheGrid'
-purpose: []
+typography_spectrum: 0.1015037
+color:
+  saturation: 0.625
+  brandStrength: 0.875
+  rhythmicContrast: 1
+  brandColors:
+    - '#000000'
+    - '#373737'
+    - '#606060'
+    - '#b6b6b6'
+    - '#ebebeb'
+  lightness: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.21585777727887034
+analytics:
+  twitter: null
+  google: UA-38685198-2
+  facebook: null
+name: '#HollywoodREBEL'
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,8 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.625
-  brandStrength: 0.875
-  rhythmicContrast: 1
-  brandColors:
-    - '#000000'
-    - '#373737'
-    - '#606060'
-    - '#b6b6b6'
-    - '#ebebeb'
-  lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-38685198-2
-  facebook: null
-favicon: null
-name: '#HollywoodREBEL'
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.1015037
-layout_spectrum: 0.21585777727887034
+title: 'Hollywood REBEL tests #TheGrid'
+description: >-
+  *This is a test of artificial intelligence financed to assist our business
+  needs.
+purpose: []

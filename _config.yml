@@ -1,20 +1,20 @@
-typography_spectrum: 0.1015037
+typography_spectrum: 0.10997282154858112
 color:
-  saturation: 0.625
-  brandStrength: 0.875
-  rhythmicContrast: 1
+  saturation: 0.10908033046871424
+  brandStrength: 0.9943949657026678
+  rhythmicContrast: 0.7456058899406344
   brandColors:
-    - '#000000'
-    - '#373737'
-    - '#606060'
-    - '#b6b6b6'
-    - '#ebebeb'
-  lightness: 0.5
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  lightness: 0.7875801539048553
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.21585777727887034
+layout_spectrum: 0.8491469291038811
 analytics:
   twitter: '#HollywoodREBEL'
   google: UA-38685198-2

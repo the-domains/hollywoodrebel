@@ -1,15 +1,15 @@
 ---
 description: It’s REBELiGAN!
-dateModified: '2016-08-13T02:44:07.672Z'
-datePublished: '2016-08-13T02:44:29.181Z'
+dateModified: '2016-08-13T03:07:35.443Z'
+datePublished: '2016-08-13T03:07:35.673Z'
 title: ''
 author: []
 publisher:
   name: dan wesson-wesson-gold-revolver-pistol
   url: 'http://GOOGLE.COM'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-its-rebeligan.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false

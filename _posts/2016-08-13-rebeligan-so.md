@@ -1,13 +1,13 @@
 ---
 title: '#Rebeligan S/O!'
-datePublished: '2016-08-13T02:40:55.044Z'
-dateModified: '2016-08-13T00:43:53.048Z'
+datePublished: '2016-08-13T03:07:10.247Z'
+dateModified: '2016-08-13T03:07:10.139Z'
 author: []
 description: ''
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-13-rebeligan-so.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
